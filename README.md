@@ -2,7 +2,7 @@
 
 ## Background
 
-For this mini project, I utilized data from [Vital Signs](https://www.vitalsigns.mtc.ca.gov/) to look at the relationship between life expectancy and home prices in order to compare data from the Bay Area to data from Baltimore and make conclusions that may apply to both locations.  The Python analysis was done using [Google Colaboratory](https://colab.research.google.com/drive/1KT8PqIWHXRi1efLAUb14II2gYjyA7u9T?usp=sharing)
+For this mini project, I utilized data from [Vital Signs](https://www.vitalsigns.mtc.ca.gov/) to look at the relationship between life expectancy and home prices in order to compare data from the Bay Area to data from Baltimore and make conclusions that may apply to both locations.  The Python analysis was done using [Google Colaboratory](https://colab.research.google.com/drive/1KT8PqIWHXRi1efLAUb14II2gYjyA7u9T?usp=sharing).
 
 ## Data Analysis
 
